@@ -1,0 +1,1 @@
+module.exports = ["Food", "Travel", "Entertainment", "Bills", "Others"];
